@@ -1,10 +1,11 @@
-#   Nincs kész
+#   Nincs kész/Javítandó
 # import negyedikFeladat
-import otodikFeladat
-#import hatodikFeladat
+# import otodikFeladat
+# import hatodikFeladat
 
 
 # negyedikFeladat.Negyedik()
-otodikFeladat.OtodikA()
+# otodikFeladat.OtodikA()
 # hatodikFeladat.Hatodik()
+
 #   Kész
